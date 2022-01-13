@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
-![img](https://i.pinimg.com/originals/27/34/4a/27344a307b56fabe9396e22a8357181e.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/27/34/4a/27344a307b56fabe9396e22a8357181e.gif" alt="semprecomotilho"/>
+</p>
 
 <!--
 **Viperxyzzz/Viperxyzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
