@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/27/34/4a/27344a307b56fabe9396e22a8357181e.gif" alt="semprecomotilho"/>
 </p>
 
-[![Spotify](https://viperxyzzz.vercel.app/api/spotify)](https://open.spotify.com/user/viperxyzzz)
+[![Spotify](https://viperxyzzz.vercel.app/api/spotify)](https://open.spotify.com/user/yqdcfxudpoauewsd3qz40bxun)
 <!--
 **Viperxyzzz/Viperxyzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
